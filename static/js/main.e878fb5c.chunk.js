@@ -1,0 +1,2 @@
+(this.webpackJsonptesting=this.webpackJsonptesting||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);n(0);var s=n(3),r=n.n(s),c=n(2),i=function(){return Object(c.jsx)("div",{children:"Happy testing!"})};r.a.render(Object(c.jsx)(i,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.e878fb5c.chunk.js.map
